@@ -11,7 +11,7 @@ int main()
 
     
 }
-int T_Holes(int n)
+/*int T_Holes(int n)
 {   int temp,count=0;
     while (n!=0)
     {   temp=n%10;
@@ -24,4 +24,4 @@ int T_Holes(int n)
     
     return(count);
     
-}
+}*/

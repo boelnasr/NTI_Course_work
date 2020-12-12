@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+
 int calc(int a,int b, char op){
     int result;
 switch(op)
