@@ -16,7 +16,7 @@ void reverse(char *s)
    int length, i;
    char *begin, *end;
    length = string_length(s);
-   begin  = s;
+   begin  =3 s;
    end    = s+ length - 1;
     for (i = 0; i < length/2; i++)
    { *begin ^= *end;
